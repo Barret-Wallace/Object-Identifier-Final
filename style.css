@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url("itemstuffpro.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intro{
+    background-color: lightseagreen;
+    margin-top: -20px;
+}
+.buttons{
+    display: inline-block;
+    background: mediumslateblue;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 300px;
+    border-radius: 50%;
+}
+.otwp{
+    background-image: url("set-of-random-objects.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heady{
+    background-color: rgb(17, 117, 211);
+    width: 100%;
+    margin-top: -1px;
+}
